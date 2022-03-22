@@ -1,0 +1,14 @@
+nav .nav-link{
+	display: block;
+	padding: .5rem 1rem;
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.1rem;
+	font-weight: bold;
+}
+
+
+nav a:hover{
+	color: #ffcd00;
+}
+

@@ -1,0 +1,15 @@
+.search form {
+	width: auto;
+	display: flex;
+	justify-content: end;
+}
+
+.search input { max-width: 300px; width: 100%; } 
+.search input, 
+.search button {
+	padding: 10px;
+}
+
+.search button{
+	position: absolute;
+}

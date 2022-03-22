@@ -1,0 +1,27 @@
+header{
+	display: flex;
+	justify-content: space-between;
+}
+
+header .header-logo ,
+header .header-content	{
+	padding: 20px;
+}
+
+.header-logo img {
+	max-width: 200px;
+}
+
+.header-topic nav ul{
+	display: flex;
+	list-style-type: none;
+	padding: 0;
+}
+
+header nav .nav-link{
+	color: #2e62a3;
+} 
+
+header nav a:hover{
+	color: #000000;
+}
